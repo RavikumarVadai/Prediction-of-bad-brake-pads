@@ -10,7 +10,7 @@ Flaws in brake liners are produced in manufacturing(Curing and Post Curing stage
 
 ## 3 Objective 
 
-The objective behind this research project was to ﬁnd a simple and reliable method for detecting damage in brake lining.
+The objective behind this research project was to ﬁnd a simple and reliable method for detecting damage in brake lining. To find a cost effective inspection techqnique and automate the testing process. Predicting the quality of similar brake liners using the developed method.
 
 ## 4 Methodology
 
