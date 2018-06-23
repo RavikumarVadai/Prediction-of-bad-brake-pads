@@ -1,0 +1,9 @@
+## Following are the steps considered for the evaluation of brake liner:
+
+• Reading .wav ﬁles
+
+• Beat detection
+
+• Creating window for each tap beat
+
+• Applying FFT for each window
